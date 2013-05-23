@@ -21,13 +21,13 @@ información (generalmente números o códigos alfanuméricos) en un gran númer
 transacciones, y con un fuerte control de integridad.
 
 
-## Copyright and license
+## Copyright y licencia
 
 Copyright 2013 CloudyVision SRL
 
-Licensed under the Apache License, Version 2.0 (the "License");
-you may not use this work except in compliance with the License.
-You may obtain a copy of the License in the LICENSE file, or at:
+Licenciado bajo la Apache License, Version 2.0 ("La Licencia");
+solo puede usar este trabajo en cumplimiento con "La Licencia".
+Puede obtener una copia de "La Licencia" en el archivo LICENSE, on en el siguiente enlace:
 
   [http://www.apache.org/licenses/LICENSE-2.0](http://www.apache.org/licenses/LICENSE-2.0)
 
