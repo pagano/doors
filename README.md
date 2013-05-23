@@ -1,7 +1,7 @@
 Cloudy Doors BPM
 =====
 
-**Cloudy Doors** BPM es un entorno de desarrollo para aplicaciones de tipo documental. 
+**Cloudy Doors BPM** es un entorno de desarrollo para aplicaciones de tipo documental. 
 En líneas generales, se trata de un repositorio de documentos organizados en una 
 estructura jerárquica de carpetas. Doors significa DOcument Oriented Relational 
 Storage (Repositorio Relacional Orientado a Documentos), ya que corre sobre un 
@@ -30,7 +30,7 @@ Puede obtener una copia de la licencia en el archivo LICENSE, o en el siguiente 
 
   [http://www.apache.org/licenses/LICENSE-2.0](http://www.apache.org/licenses/LICENSE-2.0)
 
-A menos que requerido por la ley aplicable o se acuerde por escrito, el software
+A menos que sea requerido por la ley aplicable o se acuerde por escrito, el software
 distribuido bajo la licencia se distribuye "TAL CUAL",
 SIN GARANTÍAS NI CONDICIONES DE NINGÚN TIPO, ya sea expresas o implícitas.
 Puede consultar los permisos y limitaciones específicos en la licencia.
